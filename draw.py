@@ -243,7 +243,7 @@ while len(tab)>0:
                  atoms.append([[i,j,k+0.5],"ss","black"])
              if i<aa and j<<bb and k<cc:
                  deleteatom(i+0.5,j+0.5,k+0.5)
-                 atoms.append([i+0.5,j+0.5,k+0.5],"ss","black"])
+                 atoms.append([[i+0.5,j+0.5,k+0.5],"ss","black"])
     if ope=="CUBIC":
         for i in range(int(aa)+1):
          for j in range(int(bb)+1):
