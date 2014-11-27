@@ -1,3 +1,5 @@
+epstool is needed to reformat the pictures
+
 Capital and small letters are important
 
 List of geometries
